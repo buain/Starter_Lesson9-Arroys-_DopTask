@@ -1,0 +1,7 @@
+D:\.NET\Projects\Starter_Lesson9(Arroys)_DopTask\Arroy_10elements\Arroy_10elements\obj\Debug\Arroy_10elements.csprojResolveAssemblyReference.cache
+D:\.NET\Projects\Starter_Lesson9(Arroys)_DopTask\Arroy_10elements\Arroy_10elements\obj\Debug\Arroy_10elements.csproj.CoreCompileInputs.cache
+D:\.NET\Projects\Starter_Lesson9(Arroys)_DopTask\Arroy_10elements\Arroy_10elements\bin\Debug\Arroy_10elements.exe.config
+D:\.NET\Projects\Starter_Lesson9(Arroys)_DopTask\Arroy_10elements\Arroy_10elements\bin\Debug\Arroy_10elements.exe
+D:\.NET\Projects\Starter_Lesson9(Arroys)_DopTask\Arroy_10elements\Arroy_10elements\bin\Debug\Arroy_10elements.pdb
+D:\.NET\Projects\Starter_Lesson9(Arroys)_DopTask\Arroy_10elements\Arroy_10elements\obj\Debug\Arroy_10elements.exe
+D:\.NET\Projects\Starter_Lesson9(Arroys)_DopTask\Arroy_10elements\Arroy_10elements\obj\Debug\Arroy_10elements.pdb
